@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dodo/static/css/main.df44f0fe.css",
+    "main.js": "/dodo/static/js/main.eda0db0d.js",
+    "static/js/787.d1061748.chunk.js": "/dodo/static/js/787.d1061748.chunk.js",
+    "index.html": "/dodo/index.html",
+    "main.df44f0fe.css.map": "/dodo/static/css/main.df44f0fe.css.map",
+    "main.eda0db0d.js.map": "/dodo/static/js/main.eda0db0d.js.map",
+    "787.d1061748.chunk.js.map": "/dodo/static/js/787.d1061748.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df44f0fe.css",
+    "static/js/main.eda0db0d.js"
+  ]
+}
